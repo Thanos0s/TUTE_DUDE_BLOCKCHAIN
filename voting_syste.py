@@ -112,7 +112,9 @@ def main():
   blockchain = Blockchain()
 
   while True:
-      
+      print("\n VOTER ID")
+      PRINT("\n candidate ID")
+      #print("\n")
 
         choice = input("Enter your choice (1-6): ")
 
